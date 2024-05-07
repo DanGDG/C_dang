@@ -10,6 +10,8 @@ namespace C_dang
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("trinh hai dang");
+            Console.ReadLine();
         }
     }
 }
